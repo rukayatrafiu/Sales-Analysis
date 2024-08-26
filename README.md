@@ -11,9 +11,22 @@ Retail businesses often struggle with effectively tracking and analyzing their s
 
 I used the ***Microsoft Excel*** tool for the analysis and visualization
 
+## Report Description
+
+### The report is divided into several sections
+
+- **Metrics Overview**: Displays the total sales, total profit, and total quantity sold.
+- **Top 10 States by Sales**: Highlights the highest revenue-generating states, with California leading the list.
+- **Segment Sales Contribution**: Breaks down sales contribution by customer segments: Consumer, Corporate, and Home Office.
+- **MoM% Change in Sales**: Shows the month-over-month percentage change in sales across the years 2014 to 2017.
+- **Product Category Analysis**: Compares sales and profit for key product categories: Technology, Office Supplies, and Furniture.
+- **Total Transaction Count and Discount Given**: Summarizes the total number of transactions and discounts applied.
+- **Percentage Contribution of Segments to Profit**: Visualizes the share of profit from each segment.
+- **Quantity of Products Sold by Category**: Highlights the quantity sold in each category, with Office Supplies being the most sold.
+
 ## Data Visualization
 
-![](https://github.com/rukayatrafiu/Sales-Analysis/blob/main/README.md)
+![](https://github.com/rukayatrafiu/Sales-Analysis/blob/main/Supersales%20Dashboard.png)
 
 ## Insights
 
